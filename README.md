@@ -1,7 +1,7 @@
 # CA02
 
 # Purpose
-Email Spam Classifier
+Email Spam Classifier:
 This project creates an email spam classifier using the Naive Bayes machine learning algorithm. It will train the model with a set of emails labelled as either from Spam or Not Spam.
 
 # Libraries
